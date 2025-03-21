@@ -33,3 +33,4 @@ Proje, aşağıdaki test senaryolarını başarıyla geçmiştir:
 - Gerçek bir şehir metrosu için daha büyük bir ağ eklenebilir.
 - Hava durumu veya bakım çalışmaları gibi dinamik faktörler eklenebilir.
 - Mobil uygulama arayüzü geliştirilerek daha geniş bir kitleye hitap edebilir.
+![image](https://github.com/user-attachments/assets/28d55233-4e4c-422a-ab8e-977dfec7e6a9)
